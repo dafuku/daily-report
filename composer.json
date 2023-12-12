@@ -8,11 +8,9 @@
     ],
     "license": "MIT",
     "require": {
-        "php": "^7.3|^8.0",
         "davejamesmiller/laravel-breadcrumbs": "^5.3",
         "fideloper/proxy": "^4.4",
         "fruitcake/laravel-cors": "^2.0",
-        "fzaninotto/faker": "^1.9",
         "guzzlehttp/guzzle": "^7.0.1",
         "intervention/image": "^2.5",
         "jeroennoten/laravel-adminlte": "^3.5",
@@ -23,9 +21,7 @@
         "yoeunes/toastr": "^1.2"
     },
     "require-dev": {
-        "beyondcode/laravel-er-diagram-generator": "^1.5",
         "facade/ignition": "^2.5",
-        "fakerphp/faker": "^1.9.1",
         "laravel/sail": "^1.0.1",
         "mockery/mockery": "^1.4.2",
         "nunomaduro/collision": "^5.0",
