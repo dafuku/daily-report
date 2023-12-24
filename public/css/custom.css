@@ -99,6 +99,9 @@ img.user-image-m {
     width: 45px;
 }
 
+.navbar-nav>.user-menu>.dropdown-menu>.user-footer .btn-default {
+  font-size: 13px;
+}
 /* sp */
 @media screen and (max-width:992px) {
     ul.pagination li:not(:first-child):not(:last-child) {
